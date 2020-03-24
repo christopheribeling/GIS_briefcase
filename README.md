@@ -4,8 +4,6 @@ https://christopheribeling.github.io/GIS_portfolio/
 
 # About Me
 
-!(53601.jpeg)
-
 # What I hope to learn
 
 # Portfolio
