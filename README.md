@@ -24,4 +24,4 @@ I hope to become more professional in my map making abilities. The introductory 
 # Portfolio
 
 # Projects
-![Overriding Housing Need Index](OverridingHousingNeed_Layout.JPG)
+
