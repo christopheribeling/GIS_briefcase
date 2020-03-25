@@ -13,6 +13,7 @@ My parents owned dry cleaners my entire childhood. So, I've had the opportunity 
 I finished college at the University of Colorado with a Bachelors of Arts in History. Getting a degree in History is a near guarentee for more schooling: either as a teacher or as a student in a graduate program. I chose to be an Instructor and joined the Peace Corps. I was placed in a pretty good-sized rural town in Madagascar as an English and sometimes French teacher. Just FYI, Madagascar is an incredible beautiful albiet challenging place to visit, and I would highly recommend that it be on anyone's travel radar. Just be prepared to wait because that country will make you wait. 
 
 ![Here I am waiting for a train to leave](waiting_train.jpg)
+
 *See. Here I am waiting for a train to leave*
 
 After the Peace Corps I moved to New York City and worked for a non-profit that provided housing and homeless services in the Bronx. I started as a Case Manager in a homelessness-prevention program and later moved into a role as a Program Developer. My experience in direct housing services was what motiviated me to apply to Heinz and ultimately led me to being in this Advanced GIS class here. 
@@ -23,4 +24,4 @@ I hope to become more professional in my map making abilities. The introductory 
 # Portfolio
 
 # Projects
-![Overriding Housing Need Index](OverridingHousingNeed_Layout.JPG)(lychnburg_renter-cost-burdened.JPG)
+![Overriding Housing Need Index](OverridingHousingNeed_Layout.JPG)
