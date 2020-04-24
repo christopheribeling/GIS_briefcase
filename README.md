@@ -49,9 +49,9 @@ I found this module to be really enjoyable. The raster layers it produced were v
 #### Evevation Analysis of Coastal Mississippi
 <img src="/images/elevation_coastal_MS.jpg" alt="Elevation Analysis" width="50%">
 #### Flooded Area Analysis of Coastal Mississippi
-<img src="/images/flood_analysis_coastal_MS.jpg" alt="Flood Analysis" width="50%">=
+<img src="/images/flooded_area_coastal_MS.jpg" alt="Flood Analysis" width="50%">=
 #### Raster Analysis of Flooded Area - by land use type
-<img src="/images/flooded_area_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
+<img src="/images/flood_analysis_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
 
 # Projects
 
