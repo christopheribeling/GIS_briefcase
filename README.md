@@ -28,7 +28,7 @@ I hope to become more professional in my map making abilities. The introductory 
 ## ArcGIS Map Style :: My Syle
 [Here is my ArcGIS map style](https://arcg.is/0byCOv)
 
-![My Style Color Palette](/images/color_palette.JPG)
+[<img src="/images/color_palette.JPG" alt="My Style Color Palette" width="50%">]
 
 ## Mapbox: Creating an Online Map From Scratch
 This is my first run-through with Mapbox. Bumps in the road? There may have been a couple. Solutions? There were some of those as well. It was interesting branching outside of ArcGIS for map making. In the end, I was impressed with how quickly Mapbox allows you to produce a pretty good looking map. Here is link to [my Mapbox map](https://api.mapbox.com/styles/v1/cibeling/ck8m4xi5u1cfe1iq8qp0yxnt7.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY2liZWxpbmciLCJhIjoiY2s3eGh1aG83MDBiNjNlcDluMWRjd3Y4NiJ9.2jiyPTr5j2RN3gjHpHEBGw#3.93/37.86/-96.76)
