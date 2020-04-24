@@ -38,8 +38,24 @@ And from those colors, these are some examples of the map style I was able to pr
 
 <img src="/images/my_style-2.JPG" alt="my_style-2.JPG" width="50%">
 
-## Mapbox: Creating an Online Map From Scratch
+## Mapbox :: Creating an Online Map From Scratch
 This is my first run-through with Mapbox. Bumps in the road? There may have been a couple. Solutions? There were some of those as well. It was interesting branching outside of ArcGIS for map making. In the end, I was impressed with how quickly Mapbox allows you to produce a pretty good looking map. Here is link to [my Mapbox map](https://api.mapbox.com/styles/v1/cibeling/ck8m4xi5u1cfe1iq8qp0yxnt7.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY2liZWxpbmciLCJhIjoiY2s3eGh1aG83MDBiNjNlcDluMWRjd3Y4NiJ9.2jiyPTr5j2RN3gjHpHEBGw#3.93/37.86/-96.76)
+
+## Module 2 :: Coastal Mississippi Hurricane Katrina Analysis
+
+I found this module to be really enjoyable. The raster layers it produced were very visually satisfying, almost psychodelic.. yet informative. I also learned the word bathymetry as a result of this assignment. So, it also expanded my vocabulary. Here are a couple of the layouts that I produced from the module:
+
+#### Bathymetry of Coastal Mississippi
+<img src="/images/Bathymetry%20of%20Coastal%20Mississippi.pdf" alt="bathymetry - coastal mississippi" width="50%">
+
+#### Evevation Analysis of Coastal Mississippi
+<img src="/images/elevation_coastal_MS.jpg" alt="Elevation Analysis" width="50%">
+
+#### Flooded Area Analysis of Coastal Mississippi
+<img src="/images/flood_analysis_coastal_MS.jpg" alt="Flood Analysis" width="50%">
+
+#### Raster Analysis of Flooded Area - by land use type
+<img src="/images/flooded_area_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
 
 # Projects
 
