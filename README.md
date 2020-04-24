@@ -30,13 +30,13 @@ I hope to become more professional in my map making abilities. The introductory 
 
 I started with this color palette from this delicous-looking image:
 
-<img src="/images/color_palette.JPG" alt="My Style Color Palette" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/color_palette.JPG" alt="My Style Color Palette" width="50%">
 
 And from those colors, these are some examples of the map style I was able to produce:
 
-<img src="https://github.com/christopheribeling/GIS_briefcase/images/my_style-1.JPG" alt="my_style-1.JPG" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/my_style-1.JPG" alt="my_style-1.JPG" width="50%">
 
-<img src="/images/my_style-2.JPG" alt="my_style-2.JPG" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/my_style-2.JPG" alt="my_style-2.JPG" width="50%">
 
 ## Mapbox :: Creating an Online Map From Scratch
 This is my first run-through with Mapbox. Bumps in the road? There may have been a couple. Solutions? There were some of those as well. It was interesting branching outside of ArcGIS for map making. In the end, I was impressed with how quickly Mapbox allows you to produce a pretty good looking map. Here is link to [my Mapbox map](https://api.mapbox.com/styles/v1/cibeling/ck8m4xi5u1cfe1iq8qp0yxnt7.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY2liZWxpbmciLCJhIjoiY2s3eGh1aG83MDBiNjNlcDluMWRjd3Y4NiJ9.2jiyPTr5j2RN3gjHpHEBGw#3.93/37.86/-96.76)
@@ -45,10 +45,10 @@ This is my first run-through with Mapbox. Bumps in the road? There may have been
 
 I found this module to be really enjoyable. The raster layers it produced were very visually satisfying, almost psychodelic.. yet informative. I also learned the word bathymetry as a result of this assignment. So, it also expanded my vocabulary. Here are a couple of the layouts that I produced from the module:
 
-<img src="/images/bathymetry_coastal_MS.JPG" alt="bathymetry - coastal mississippi" width="50%">
-<img src="/images/elevation_coastal_MS.jpg" alt="Elevation Analysis" width="50%">
-<img src="/images/flooded_area_coastal_MS.jpg" alt="Flood Analysis" width="50%">
-<img src="/images/flood_analysis_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/bathymetry_coastal_MS.JPG" alt="bathymetry - coastal mississippi" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/elevation_coastal_MS.jpg" alt="Elevation Analysis" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/flooded_area_coastal_MS.jpg" alt="Flood Analysis" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/flood_analysis_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
 
 # Projects
 
