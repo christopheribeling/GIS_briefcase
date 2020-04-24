@@ -22,9 +22,11 @@ After the Peace Corps I moved to New York City and worked for a non-profit that 
 I hope to become more professional in my map making abilities. The introductory GIS course provided a good foundation for using ArcGIS pro and map making in general, but could only scratch the surface of some of the software’s advanced features. Learning how to use ArcGIS to a greater capacity and explore some of these features to a greater degree would be a real benefit. With that, it would be helpful to understand how to use take advantage of some of layout and visualization tools to get my maps looking more professional (e.g. best practices with gridlines, extents, layer cutoffs).
 
 # Portfolio
+## Google Maps Map Style :: My Syle
+[My thoughts on Google Maps Map Style](https://christopheribeling.github.io/GIS_briefcase/google_map_my_style.html)
 
-## ArcGIS Style: My Syle
-https://arcg.is/0byCOv
+## ArcGIS Map Style :: My Syle
+[Here is my ArcGIS map style](https://arcg.is/0byCOv)
 
 ## Mapbox: Creating an Online Map From Scratch
 This is my first run-through with Mapbox. Bumps in the road? There may have been a couple. Solutions? There were some of those as well. It was interesting branching outside of ArcGIS for map making. In the end, I was impressed with how quickly Mapbox allows you to produce a pretty good looking map. Here is link to [my Mapbox map](https://api.mapbox.com/styles/v1/cibeling/ck8m4xi5u1cfe1iq8qp0yxnt7.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY2liZWxpbmciLCJhIjoiY2s3eGh1aG83MDBiNjNlcDluMWRjd3Y4NiJ9.2jiyPTr5j2RN3gjHpHEBGw#3.93/37.86/-96.76)
