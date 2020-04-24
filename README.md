@@ -1,6 +1,5 @@
-# GIS Briefcase
+# [GIS Briefcase](https://christopheribeling.github.io/GIS_briefcase/)
 This is portfolio of a bunch of GIS and map-related work created by Christopher Ibeling
-https://christopheribeling.github.io/GIS_briefcase/
 
 # About Me
 My name is Christopher. I was born in and raised in the great state of Colorado. This is an early snapshot of what that was like: 
