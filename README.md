@@ -46,10 +46,13 @@ This is my first run-through with Mapbox. Bumps in the road? There may have been
 I found this module to be really enjoyable. The raster layers it produced were very visually satisfying, almost psychodelic.. yet informative. I also learned the word bathymetry as a result of this assignment. So, it also expanded my vocabulary. Here are a couple of the layouts that I produced from the module:
 #### Bathymetry of Coastal Mississippi
 <img src="/images/bathymetry_coastal_MS.JPG" alt="bathymetry - coastal mississippi" width="50%">
+
 #### Evevation Analysis of Coastal Mississippi
 <img src="/images/elevation_coastal_MS.jpg" alt="Elevation Analysis" width="50%">
+
 #### Flooded Area Analysis of Coastal Mississippi
-<img src="/images/flooded_area_coastal_MS.jpg" alt="Flood Analysis" width="50%">=
+<img src="/images/flooded_area_coastal_MS.jpg" alt="Flood Analysis" width="50%">
+
 #### Raster Analysis of Flooded Area - by land use type
 <img src="/images/flood_analysis_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
 
