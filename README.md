@@ -44,10 +44,9 @@ This is my first run-through with Mapbox. Bumps in the road? There may have been
 ## Module 2 :: Coastal Mississippi Hurricane Katrina Analysis
 
 I found this module to be really enjoyable. The raster layers it produced were very visually satisfying, almost psychodelic.. yet informative. I also learned the word bathymetry as a result of this assignment. So, it also expanded my vocabulary. Here are a couple of the layouts that I produced from the module:
-#### Bathymetry of Coastal Mississippi
+<h5>Bathymetry of Coastal Mississippi</h5>
 <img src="/images/bathymetry_coastal_MS.JPG" alt="bathymetry - coastal mississippi" width="50%">
-
-#### Evevation Analysis of Coastal Mississippi
+<h5>Evevation Analysis of Coastal Mississippi</h5>
 <img src="/images/elevation_coastal_MS.jpg" alt="Elevation Analysis" width="50%">
 
 #### Flooded Area Analysis of Coastal Mississippi
