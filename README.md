@@ -34,7 +34,7 @@ I started with this color palette from this delicous-looking image:
 
 And from those colors, these are some examples of the map style I was able to produce:
 
-<img src="/images/my_style-1.JPG" alt="my_style-1.JPG" width="50%">
+<img src="https://github.com/christopheribeling/GIS_briefcase/images/my_style-1.JPG" alt="my_style-1.JPG" width="50%">
 
 <img src="/images/my_style-2.JPG" alt="my_style-2.JPG" width="50%">
 
