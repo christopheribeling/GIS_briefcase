@@ -52,5 +52,11 @@ I found this module to be really enjoyable. The raster layers it produced were v
 <img src="https://christopheribeling.github.io/GIS_briefcase/images/flooded_area_coastal_MS.jpg" alt="Flood Analysis" width="50%">
 <img src="https://christopheribeling.github.io/GIS_briefcase/images/flood_analysis_coastal_MS.jpg" alt="Flooded Area Raster Analysis" width="50%">
 
+## ArcGIS Insights
+
+As I mentioned in the canvas discussion board, I found ArcGIS Insights really pleasant to work with. Much like the experience with Mapbox, I appreciated how quickly Insights allows you to turn out a pretty polished looking map with just a little bit of data and some processing. Of course, the trade off for Insights is the amount of analysis and autonomy to customize within the software, but with a little data processing, an upload and some growing pains of learning to navigate the software, I was able to produce these visualizations with the opioid distribution dataset:
+#### Distibution of Opioids to Mingo County (Weight by dosage)
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/mingo_county-opioid_distribution.JPG" alt="distribution" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/mingo_county_residents_5_miles.JPG" alt="residents" width="50%">
 # Projects
 
