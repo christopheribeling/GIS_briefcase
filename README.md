@@ -35,7 +35,10 @@ And from those colors, these are some examples of the map style I was able to pr
 
 <img src="https://christopheribeling.github.io/GIS_briefcase/images/my_style-1.JPG" alt="my_style-1.JPG" width="50%">
 
-<img src="https://christopheribeling.github.io/GIS_briefcase/images/my_style-2.JPG" alt="my_style-2.JPG" width="50%">
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/my_style-3.JPG" alt="my_style-3.JPG" width="50%">
+
+<img src="https://christopheribeling.github.io/GIS_briefcase/images/my_style-4.JPG" alt="my_style-4.JPG" width="50%">
+
 
 ## Mapbox :: Creating an Online Map From Scratch
 This is my first run-through with Mapbox. Bumps in the road? There may have been a couple. Solutions? There were some of those as well. It was interesting branching outside of ArcGIS for map making. In the end, I was impressed with how quickly Mapbox allows you to produce a pretty good looking map. Here is link to [my Mapbox map](https://api.mapbox.com/styles/v1/cibeling/ck8m4xi5u1cfe1iq8qp0yxnt7.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY2liZWxpbmciLCJhIjoiY2s3eGh1aG83MDBiNjNlcDluMWRjd3Y4NiJ9.2jiyPTr5j2RN3gjHpHEBGw#3.93/37.86/-96.76)
