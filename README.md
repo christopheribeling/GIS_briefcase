@@ -58,7 +58,9 @@ As I mentioned in the canvas discussion board, I found ArcGIS Insights really pl
 #### Distibution of Opioids to Mingo County (Weight by dosage)
 <img src="https://christopheribeling.github.io/GIS_briefcase/images/mingo_county-opioid_distribution.JPG" alt="distribution" width="50%">
 <img src="https://christopheribeling.github.io/GIS_briefcase/images/mingo_county_residents_5_miles.JPG" alt="residents" width="50%">
-#### Covid-19 Time Lapse Visualization
+## Covid-19 Time Lapse Visualization
+
 For the final project, I worked with Sean Cuff to look at different methods to develop time-lapse maps with Covid-19 data. In the end, we explored two different approaches to creating a time-lapse map. Here is one of the maps we developed.
 ![covid_timelapse](/images/covid_timelapse.gif)
+
 We layout more about the project on this Github page here. [Github page here](https://spcuff.github.io/COVID-19-Final-Project/).
